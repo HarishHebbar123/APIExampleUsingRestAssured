@@ -1,0 +1,14 @@
+# IntelliJ
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/compiler.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/uiDesigner.xml
+.idea/libraries
+
+
+target
+test-output
+
